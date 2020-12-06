@@ -1,1 +1,1 @@
-# SP-500-Stock-Analysis
+# S&P 500 Stock Prediction
