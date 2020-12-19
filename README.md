@@ -1,4 +1,4 @@
-# S&P 500 Stock Prediction
+# S&P 500 Stock Prediction - Top Investment Firms
 
 
 Stock market data can be interesting to analyze and as a further incentive, strong predictive models can have large financial payoff. The stock exchange shoulders the responsibility of ensuring price transparency, liquidity, price discovery and fair dealings in such trading activities. As almost all major stock markets across the globe now operate electronically, the exchange maintains trading systems that efficiently manage the buy and sell orders from various market participants. They perform the price matching function to facilitate trade execution at a price fair to both buyers and sellers. The amount of financial data on the web is seemingly endless. 
@@ -18,4 +18,4 @@ The top 10 companies in S&P 500:
 10. Visa
 
 
-Here I will be covering how to work with stock prices of companies in S&P 500. We will be considering the stock prices of top most company in S&P 500, Apple. The concepts covered will involve correlation, risk analysis and future stock prices.
+Here I will be covering how to work with stock prices of companies in S&P 500. We will be considering the stock prices of top investment firms namely JP Morgan, Bank of America, Citi and Goldman Sachs. The kernel will incorporate correlation, risk analysis and future stock prices.
