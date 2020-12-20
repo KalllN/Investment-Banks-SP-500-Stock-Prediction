@@ -18,4 +18,4 @@ The top 10 companies in S&P 500:
 10. Visa
 
 
-Here I will be covering how to work with stock prices of companies in S&P 500. We will be considering the stock prices of top investment firms namely JP Morgan, Bank of America, Citi and Goldman Sachs. The kernel will incorporate correlation, risk analysis and future stock prices.
+Here I will be covering how to work with stock prices of companies in S&P 500. We will be considering the stock prices of top investment firms namely JP Morgan, Bank of America, Citi and Goldman Sachs. The kernel will incorporate correlation, risk analysis and prediction of future stock prices. The datasets show prices of these banks over a range of 5 years.
