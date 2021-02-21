@@ -18,4 +18,12 @@ The top 10 companies in S&P 500 as of December 2020:
 9. JP Morgan
 10. Visa
 
-Here I will be covering how to work with stock prices of companies in S&P 500. We will be considering the stock prices of top investment firms namely JP Morgan, Bank of America, Citi and Goldman Sachs. The kernel will incorporate correlation, risk analysis and prediction of future stock prices. The datasets show prices of these banks over a range of 5 years. Since the data ends with 2018, I will be predicting prices of 2019 and see if they match with the actual prices.
+Here I will be covering how to work with stock prices of companies in S&P 500. We will be considering the stock prices of top investment firms namely 
+
+1. JP Morgan
+2. Bank of America
+3. Citi
+4. Goldman Sachs
+
+
+The kernel will incorporate correlation, risk analysis and prediction of future stock prices. The datasets show prices of these banks over a range of 5 years. Since the data ends with 2018, I will be predicting prices of 2019 and see if they match with the actual prices.
