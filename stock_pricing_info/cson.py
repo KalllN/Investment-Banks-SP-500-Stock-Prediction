@@ -17,7 +17,6 @@ for i, bank in enumerate(ib_bank_list, 1):
     plt.title(f"{bank_name[i - 1]}")
 
 #Correlation of High & Low Stock Prices USD ($)
-
 plt.figure(figsize = (20, 13))
 
 for i, bank in enumerate(ib_bank_list, 1):
@@ -28,7 +27,6 @@ for i, bank in enumerate(ib_bank_list, 1):
     plt.title(f"{bank_name[i - 1]}")
 
 #Close Price History
-
 plt.figure(figsize = (20, 13))
 for i, bank in enumerate(ib_bank_list, 1):
     plt.subplot(2, 2, i)
