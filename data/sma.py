@@ -1,3 +1,11 @@
+import numpy as np
+import pandas as pd
+from pandas import concat
+import matplotlib
+import seaborn as sns
+import matplotlib.pyplot as plt
+plt.style.use('fivethirtyeight')
+
 sma30 = []
 sma100 = []
 
