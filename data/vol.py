@@ -1,3 +1,11 @@
+import numpy as np
+import pandas as pd
+from pandas import concat
+import matplotlib
+import seaborn as sns
+import matplotlib.pyplot as plt
+plt.style.use('fivethirtyeight')
+
 #Daily Volume
 plt.figure(figsize = (20, 13))
 for i, bank in enumerate(ib_bank_list, 1):
