@@ -16,9 +16,6 @@ CITI = pd.read_csv('../input/sandp500/individual_stocks_5yr/individual_stocks_5y
 GS = pd.read_csv('../input/sandp500/individual_stocks_5yr/individual_stocks_5yr/GS_data.csv')
 
 JPM['date'] = pd.to_datetime(JPM['date'])
-
 BOA['date'] = pd.to_datetime(BOA['date'])
-
 CITI['date'] = pd.to_datetime(CITI['date'])
-
 GS['date'] = pd.to_datetime(GS['date'])
