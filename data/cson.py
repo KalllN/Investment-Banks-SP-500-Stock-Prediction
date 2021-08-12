@@ -1,5 +1,13 @@
-#Relationship between Opening & Closing Price USD($)
 
+import numpy as np
+import pandas as pd
+from pandas import concat
+import matplotlib
+import seaborn as sns
+import matplotlib.pyplot as plt
+plt.style.use('fivethirtyeight')
+
+#Relationship between Opening & Closing Price USD($)
 plt.figure(figsize = (21, 12))
 
 for i, bank in enumerate(ib_bank_list, 1):
